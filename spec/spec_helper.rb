@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "pdf_builder"
+require "pry"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
